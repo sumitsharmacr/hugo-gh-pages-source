@@ -1,13 +1,15 @@
 ---
-title: About Hugo
-date: 2014-04-09
+title: "Publications"
+date: 2021-08-08T13:38:31+05:30
 authorbox: false
 sidebar: false
 menu: main
 ---
 
-Hugo is a static site engine written in Go.
 
+Hugo is a static site engine written in Go. 
+
+## Publications
 
 It makes use of a variety of open source projects including:
 
