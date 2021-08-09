@@ -25,6 +25,13 @@ My main research is in the area of real-time systems and autonomous systems:
 ***
 ## Research Projects
 
+### [ ➤ MOCHA: Modelling and Optimising Complex Heterogenous Architectures](https://github.com/spf13/cobra)
+
+###### (2019 - 2022) PostDoc, funded by Huawei Technologies Co. Ltd, £985,927
+
+The applications and resources (processors, networks and memory) for real-time systems are becoming ever more complex to understand, control and maintain. This has led to research into building statistical models of systems and adaptive policies based on these statistical models.
+
+The key challenges that emerge are whether the models reflect how the system would behave during operation, how systems should deal with unexpected or rarely occurring scenarios, and then how to optimise systems based on the behaviours of the systems. It is specifically to address the high overheads of current systems and the low cache hit rates that are currently achieved.
 
 It makes use of a variety of open source projects including:
 
