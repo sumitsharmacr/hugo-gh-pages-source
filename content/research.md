@@ -9,9 +9,21 @@ menu:
     weight: 2
 ---
 
-## Research
+***
 
-Hugo is a static site engine written in Go.
+## Research Interests
+
+My main research is in the area of real-time systems and autonomous systems:
+
+* Real-time scheduling and allocation on single- and multi-cores;
+* Flexible and feedback-based methods for task/network scheduling;
+* Control-scheduling co-design and design automation of CPS;
+* Real-time I/O and time predictable computer architecture;
+* Assuring timing and safety of robotic and autonomous systems.
+* I am open to any form of collaboration worldwidely related to these fields.
+
+***
+## Research Projects
 
 
 It makes use of a variety of open source projects including:
