@@ -6,28 +6,29 @@ sidebar: false
 menu: main
 ---
 
-Hugo is a static site engine written in Go.
+## PhD Research Students Supervision
+I am interesed to supervise the following PhD topics:
 
+* Timing assurance of CPU-GPU hetergeneous platform;
+* Task scheduling and assurance of autonomous driving systems;
+* Inteference and contention analysis of multi-cores;
+* Multi-agent systems scheduling, management and coordination;
+* Scheduling of ROS 2 (Robot Operating System).
 
-It makes use of a variety of open source projects including:
+Current PhD students:
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+* Zou Jie, Resource Efficient Real-Time Scheduling for Autonomous Driving Systems, co-supervised with John McDermid (2019-2022)
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+Please be aware that, by the university policy, I am only able to co-supervise PhD students with a primary supervisor in place who is a permanent university staff (with title Lecturer/Senior Lecturer/Reader/Processor). Please do submit PhD applications to the primary supervisor but include me if you want my co-surpervision. I am happy to give more information on request.
 
-## Setup
+## MSc Research Projects
 
-Some fun facts about [Hugo](http://gohugo.io/):
+* Zhijian Wang, Priority Assignment Algorithms in Multiprocessor Real-Time Systems with Shared Resources (2021)
+* Zixun Yu, Smart Intersection Control with Back-Pressure Algorithms, co-supervised (2021)
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+## Undergraduate Final Year Projects
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+* Dean Kenny, Simulating and Improving the Scheduling in Time-Sensitive Networks (2021)
+* Jay Brooks, Large Scale Scheduling of Time Sensitive Networks, co-supervised (2021)
 
-Thanks for reading!
-
+***

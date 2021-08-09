@@ -43,9 +43,12 @@ Xiaotian Dai is a research associate at the University of York, UK. He received 
 
 ## Events
 
-* May 2021: (service) ICESS'21 - PC member
+* May 2021: ({{< underline >}}service{{< /underline >}}) ICESS'21 - PC member
 
+***
 
+## Past Events
 
-Thanks for reading!
+* May 2021: ({{< underline >}}service{{< /underline >}}) ICESS'21 - PC member
 
+***

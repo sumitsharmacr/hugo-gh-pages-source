@@ -5,30 +5,44 @@ authorbox: false
 sidebar: false
 menu: main
 ---
+***
 
+For a full list of publications, please visit my [Google Scholar](https://github.com/spf13/cobra) | [dblp](https://github.com/spf13/cobra).
 
-Hugo is a static site engine written in Go. 
+***
 
-## Publications
+## Publications by Date
 
-It makes use of a variety of open source projects including:
+[(Publication by topic)](https://github.com/spf13/cobra)
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+### 2021
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+[13] {{< badge red>}}conference{{< /badge >}} {{< underline >}}Xiaotian Dai{{< /underline >}}, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. [“Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems — Requirements and Open Challenges”](https://github.com/spf13/cobra). IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). 2021.
 
-## Setup
+[12] {{< badge blue>}}conference{{< /badge >}} {{< underline >}}Xiaotian Dai{{< /underline >}}, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. [“Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems — Requirements and Open Challenges”](https://github.com/spf13/cobra). IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). 2021.
 
-Some fun facts about [Hugo](http://gohugo.io/):
+[11] {{< badge green>}}conference{{< /badge >}} {{< underline >}}Xiaotian Dai{{< /underline >}}, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. [“Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems — Requirements and Open Challenges”](https://github.com/spf13/cobra). IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). 2021.
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+[10] {{< badge black>}}conference{{< /badge >}} {{< underline >}}Xiaotian Dai{{< /underline >}}, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. [“Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems — Requirements and Open Challenges”](https://github.com/spf13/cobra). IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). 2021.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+### 2020
 
-Thanks for reading!
+[13] {{< badge red>}}conference{{< /badge >}} {{< underline >}}Xiaotian Dai{{< /underline >}}, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. [“Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems — Requirements and Open Challenges”](https://github.com/spf13/cobra). IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). 2021.
+
+[12] {{< badge blue>}}conference{{< /badge >}} {{< underline >}}Xiaotian Dai{{< /underline >}}, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. [“Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems — Requirements and Open Challenges”](https://github.com/spf13/cobra). IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). 2021.
+
+[11] {{< badge green>}}conference{{< /badge >}} {{< underline >}}Xiaotian Dai{{< /underline >}}, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. [“Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems — Requirements and Open Challenges”](https://github.com/spf13/cobra). IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). 2021.
+
+[10] {{< badge black>}}conference{{< /badge >}} {{< underline >}}Xiaotian Dai{{< /underline >}}, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. [“Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems — Requirements and Open Challenges”](https://github.com/spf13/cobra). IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). 2021.
+
+### 2019 (& before)
+
+[13] {{< badge red>}}conference{{< /badge >}} {{< underline >}}Xiaotian Dai{{< /underline >}}, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. [“Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems — Requirements and Open Challenges”](https://github.com/spf13/cobra). IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). 2021.
+
+[12] {{< badge blue>}}conference{{< /badge >}} {{< underline >}}Xiaotian Dai{{< /underline >}}, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. [“Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems — Requirements and Open Challenges”](https://github.com/spf13/cobra). IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). 2021.
+
+[11] {{< badge green>}}conference{{< /badge >}} {{< underline >}}Xiaotian Dai{{< /underline >}}, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. [“Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems — Requirements and Open Challenges”](https://github.com/spf13/cobra). IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). 2021.
+
+[10] {{< badge black>}}conference{{< /badge >}} {{< underline >}}Xiaotian Dai{{< /underline >}}, Shuai Zhao, Iain Bate, Alan Burns, Xing Guo, Wanli Chang. [“Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems — Requirements and Open Challenges”](https://github.com/spf13/cobra). IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). 2021.
+
+***
