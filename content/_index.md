@@ -11,7 +11,7 @@ menu:
 
 # Dr. Xiaotian Dai
 
-{{< myshortcode >}}
+{{< home >}}
 
 ***
 
